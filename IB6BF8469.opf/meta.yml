@@ -1,0 +1,19 @@
+id: IB6BF8469
+default_language: bo
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:30:08.840924
+last_modified: 2023-01-04 11:30:08.840941
+source_metadata:
+  collections:
+  - Butön Rinchen Drup Series
+  - Works of Tibetan Masters
+bases:
+  5EAB:
+    title: 'A Beautiful Lotus Garland: In Praise of the Omniscient Lord of Dharma
+      Butön Rinchen Drup'
+    base_file: 5EAB.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
